@@ -2,7 +2,7 @@
 Documentation of Sales Retail Dataset analyses with Power BI
 ![Sales Retail](News.jfif)
 # Introduction
-After a break from data analytics due to school workload, I'm back with another project to get myself back on track. I explored a Sales Retail dataset to extract actionable insights for stakeholders. I was excited to work on this project as it requires both Business Intelligence and Financial Analysis skills (Statement of Profit and Loss) which I have a background in.
+After taking a break from data analytics due to academic obligations, I recently completed a Sales Retail dataset analysis project that allowed me to utilize my expertise in both Business Intelligence and Financial Analysis, specifically in the Statement of Profit and Loss. Extracting actionable insights for the stakeholders was a fulfilling experience, and I am glad to have enhanced my data analytics skills through this project.
 
 ## Business Task
 1. To identify the top-selling products and categories
@@ -43,7 +43,7 @@ It's pertinent to create a separate table for date to ensure efficient Time Inte
 ![PowerQuery](DateDim.PNG)
 
 
-## Loading Data to Power Query and Data Modelling
+## Loading Data to Power BI and Data Modelling
 After performing the necessary data transformations, I loaded the data into Power BI for further analysis. I also created relationships between the tables to enable data modeling.
 
 ![Model](Model.PNG)
