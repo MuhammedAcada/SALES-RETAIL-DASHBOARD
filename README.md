@@ -71,14 +71,17 @@ A profit and loss statement, also known as an income statement, is a financial r
 
 ![Business Growth](BusinessGrowth.PNG)
 
+## Full Report Link
+https://app.powerbi.com/view?r=eyJrIjoiZDU5Zjg3ZDAtY2I1Ny00Mjg4LTgwMDMtODMwY2Y3NmI1NjFjIiwidCI6IjZkOWU3ZTJiLTJjZGQtNDQ2OC1hOGNiLTM1ZTg3M2U3NzFiNSJ9
+
 ## DASHBOARD - KPI AND PROFIT AND LOSS PAGE 
-![Page 1](overview.PNG)
+![Page 1](KeyKPia1.jpg)
 
 ## DASHBOARD - STORE DETAILS PAGE
-![Page 2](Storefinal.PNG)
+![Page 2](Storeview.jpg)
 
 ## DASHBOARD - TOP AND BOTTOM SELLERS PAGE
-![Page 3](TopAndBottom.PNG)
+![Page 3](Topsellers.PNG)
 
 
 
